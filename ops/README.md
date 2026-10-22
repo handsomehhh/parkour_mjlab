@@ -28,7 +28,7 @@ uv pip install --python .venv/bin/python -e . --no-deps
 The task's motion archives are separate data assets and are not committed to Git.
 Place the extracted official PHP motion bundles in
 `src/assets/motions/php_motion/<bundle-name>/` before starting training. See the
-task README under `src/tasks/php/` for dataset details.
+project `README.md` for task usage and dataset details.
 
 Start or resume the pipeline from the repository root:
 
